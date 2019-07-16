@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testing.org/tesing-1.0.dtd">
+<suite name= "testsuit">
+<test name="exam">
+<classes>
+<class name="Merhaba.project.NewTest"></class>
+</classes>
+</test>
+</suite>
